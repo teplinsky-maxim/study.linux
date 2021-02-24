@@ -58,3 +58,4 @@
 ---
 Git поставил путем `sudo apt install git`
 
+![system](/scr.png?raw=true)
